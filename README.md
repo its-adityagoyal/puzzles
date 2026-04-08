@@ -21,7 +21,6 @@
 
 ## 📄 Notes
 
-* [Quant Preparation PDF](https://drive.google.com/file/d/18GTwkINMGNKIT8MFl3_WekjFS5OzekAI/view)
+* [50 Challenging Problems](https://drive.google.com/file/d/18GTwkINMGNKIT8MFl3_WekjFS5OzekAI/view)
 * [Nim Game Strategy (Codeforces)](https://codeforces.com/blog/entry/66040)
-* https://drive.google.com/file/d/18GTwkINMGNKIT8MFl3_WekjFS5OzekAI/view
-* https://codeforces.com/blog/entry/66040
+
