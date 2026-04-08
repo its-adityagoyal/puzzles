@@ -8,7 +8,7 @@
 * https://www.puzzledquant.com/
 * https://arithmetic.zetamac.com/
 
-## 🎮 Project
+## 🎮 Repository
 
 * https://github.com/coderSomya/gauss-garden
 
