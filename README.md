@@ -21,3 +21,4 @@ https://arithmetic.zetamac.com/
 
 https://www.youtube.com/playlist?list=PLiAulSm0XXgvCGe63mrAkda9UQ9478YQv
 
+https://www.youtube.com/@Quant_Prof
